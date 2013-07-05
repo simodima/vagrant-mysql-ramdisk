@@ -2,3 +2,4 @@ Cheffile.lock
 .vagrant
 .DS_Store
 /tmp
+/cookbooks/*

@@ -11,14 +11,6 @@ cookbook 'mysql',
   :git => 'git://github.com/opscode-cookbooks/mysql.git'
 cookbook 'apparmor',
   :git => 'git://github.com/opscode-cookbooks/apparmor.git'
-# cookbook 'nginx',
-#   :git => 'git://github.com/opscode-cookbooks/nginx.git'
-#  cookbook 'php',
-#   :git => 'git://github.com/opscode-cookbooks/php.git'
-# cookbook 'php-fpm',
-#   :git => 'git://github.com/yevgenko/cookbook-php-fpm.git'
-# cookbook 'composer',
-#   :git => 'git://github.com/zircote/chef-composer.git'
 cookbook 'build-essential'
 cookbook 'database',
   :git => 'git://github.com/opscode-cookbooks/database.git'
