@@ -4,8 +4,8 @@ vagrant-mysql-ramdisk
 Ubuntu machine with mysql on ram, created for running web application functional tests
 
 **Requirements**
--  Librarian-chef gem (***gem install librarian-chef***) [Repository](https://github.com/applicationsonline/librarian-chef)
--  Vagrant gem (***gem install vagrant***) [Link website](http://www.vagrantup.com)
+-  Librarian-chef gem ( ***gem install librarian-chef*** ) [Repository](https://github.com/applicationsonline/librarian-chef)
+-  Vagrant gem ( ***gem install vagrant*** ) [Link website](http://www.vagrantup.com)
 
 
 **Instructions** (run these commands)
